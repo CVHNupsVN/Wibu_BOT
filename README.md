@@ -9,7 +9,6 @@ BOT dành cho các server của nền tảng discord.
 - uptime: Kiểm tra thời gian BOT đã trực tuyến.
 - help: Để xem tất cả lệnh mà BOT có.
 
-
 # Lệnh dành cho anh em wibu chúng ta:
 - dance: Lấy ảnh gif với nhân vật anime đang nhảy.
 - neko: Lấy ảnh "neko".
@@ -26,6 +25,7 @@ BOT dành cho các server của nền tảng discord.
 
 # Preview:
 ![preview](/img/preview.jpg)
+
 P/s: Sai chính tả nhưng mà lười không muốn chụp lại :D
 
 # Sử dụng:
@@ -34,10 +34,10 @@ Bạn có thể chỉnh sửa để làm con bot riêng cho mình hoặc cũng c
 Nếu bạn không có kinh phí để thuê máy chủ cho bot thì bạn hãy bấm nút dưới đây đây dể chạy bot trên https//repl.it
 
 [![Chạy trên repl.it](https://repl.it/badge/github/chuhanh-0704/Wibu_BOT)](https://repl.it/github/chuhanh-0704/Wibu_BOT)
+
 # Dự định:
 - Thêm nhiều lệnh hơn.
 - Hỗ trợ slash cmd để phục vụ tính năng Youtube Together và một vài tính năng khác cảu discord.
-
 
 # Hỗ trợ + góp ý:
 Nếu có gì cần trợ giúp hoặc đóng góp ý kiến, DM mình qua discord: ```CVHNups#9401```
