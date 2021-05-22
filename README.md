@@ -1,4 +1,4 @@
-# Wibu_BOT
+# Wibu_BOT:
 BOT này được mình viết trong lúc mình còn chưa học nodejs nên có gì sai sót mong các bạn bỏ qua.
 
 # Loại BOT:
