@@ -1,4 +1,5 @@
 const { MessageEmbed } = require('discord.js');
+const config_prefix = require ('../../config.js')
 
 module.exports = {
     config: {
@@ -6,7 +7,7 @@ module.exports = {
         aliases: ['commands', `help`, 'list']
     },
     run: async (bot, message, args, Discord, client) => {
-        let prefix = '.'
+        let prefix = config_prefix.prefix
         let info_1 = 'ping'
         let info_2 = '```dance``` ```foxgirl``` ```neko``` ```nekog``` ```dance``` ```quote``` ```waifu``` ```wink```'
         
