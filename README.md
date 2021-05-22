@@ -23,7 +23,7 @@ BOT này được mình viết trong lúc mình còn chưa học nodejs nên có
 # Sử dụng:
 Hiện tại con BOT này chưa được hoàn chỉnh theo đúng ý mình nên mình sẽ cố gắng để thêm các lệnh khác vào con bot.
 
-Bạn có thể chỉnh sửa để làm con bot riêng cho mình hoặc bạn cũng có thể lấy nguyên nó để làm BOT của chinha bạn.
+Bạn có thể chỉnh sửa để làm con bot riêng cho mình hoặc cũng có thể lấy nguyên nó để làm BOT của chính bạn.
 
 # Hỗ trợ:
 Nếu có gì cần trợ giúp hoặc đóng góp ý kiến, DM mình qua discord: ```CVHNups#9401```
