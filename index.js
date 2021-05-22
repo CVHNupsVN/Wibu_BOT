@@ -9,7 +9,7 @@ const client = new Client();
 constant.DefaultOptions.ws.properties.$browser = `Discord Android` //F$CK IOS
 
 client.on('ready', () => {
-	client.user.setActivity('.help ❤', {
+	client.user.setActivity('${config.prefix}help ❤', {
 		type: 'LISTENING',
 		url: 'https://www.youtube.com/watch?v=5qap5aO4i9A'
 	});
