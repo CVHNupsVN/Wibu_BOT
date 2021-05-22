@@ -19,4 +19,5 @@ Hiện tại con BOT này chưa được hoàn chỉnh theo đúng ý mình nên
 
 Bạn có thể chỉnh sửa để làm con bot riêng cho mình hoặc bạn cũng có thể lấy nguyên nó để làm BOT của chinha bạn.
 
-Nếu có gì cần trợ giúp, DM mình qua discord: ```CVHNups#9401```
+# Hỗ trợ:
+Nếu có gì cần trợ giúp hoặc đóng góp ý kiến, DM mình qua discord: ```CVHNups#9401```
