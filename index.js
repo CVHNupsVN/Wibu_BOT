@@ -1,0 +1,18 @@
+const { Client, Collection, APIMessage } = require('discord.js');
+const config = require('./config.js');
+const constant= require('./node_modules/discord.js/src/util/Constants.js')
+const client = new Client();
+
+[`aliases`, `commands`].forEach(x => (client[x] = new Collection()));
+['command', 'events'].forEach(x => require(`./handlers/${x}`)(client));
+
+//set bot status:
+constant.DefaultOptions.ws.properties.$browser = `Discord Android`
+client.on('ready', () => {
+	client.user.setActivity('.help ❤', {
+		type: 'LISTENING',
+		url: 'https://www.youtube.com/watch?v=5qap5aO4i9A'
+	});
+});
+
+client.login(config.token).catch(console.error);
