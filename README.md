@@ -37,7 +37,7 @@ Nếu bạn không có kinh phí để thuê máy chủ cho bot thì bạn hãy 
 
 # Dự định:
 - Thêm nhiều lệnh hơn.
-- Hỗ trợ slash cmd để phục vụ tính năng Youtube Together và một vài tính năng khác cảu discord.
+- Hỗ trợ slash cmd để phục vụ tính năng Youtube Together và một vài tính năng khác của discord.
 
 # Hỗ trợ + góp ý:
 Nếu có gì cần trợ giúp hoặc đóng góp ý kiến, DM mình qua discord: ```CVHNups#9401```
