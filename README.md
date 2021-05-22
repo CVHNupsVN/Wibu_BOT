@@ -25,7 +25,7 @@ BOT dành cho các server trên nền tảng trò chuyện trực tuyến nổi 
 - https://animechan.vercel.app
 
 # Preview:
-![preview](/preview.jpg)
+![preview](/img/preview.jpg)
 
 P/s: Sai chính tả nhưng mà lười không muốn chụp lại :D
 
