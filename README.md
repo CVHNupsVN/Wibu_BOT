@@ -13,7 +13,7 @@ BOT này được mình viết trong lúc mình còn chưa học nodejs nên có
 - nekog: Cũng là lấy ảnh "neko" nhưng là gif.
 - quote: Lấy một câu thoại được trích dẫn trong một bộ phim anime nào đó.
 - waifu: Lấy ảnh "waifu".
-- wink: Lấy ảnh gif nhân vật anime nhay mắt.
+- wink: Lấy ảnh gif nhân vật anime đang nháy mắt.
 
 Hiện tại con BOT này chưa được hoàn chỉnh theo đúng ý mình nên mình sẽ cố gắng để thêm các lệnh khác vào con bot.
 
