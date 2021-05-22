@@ -15,7 +15,7 @@ module.exports = {
             .setColor(`RANDOM`)
             .addField(`Prefix: `, prefix)
             .addField(`Kiểm tra độ trễ của bot: `, `ping`)
-            .addField(`Kiểm tra thời gian trược tuyến: `, `help`)
+            .addField(`Kiểm tra thời gian trược tuyến: `, `uptime`)
             .addField(`Lệnh dành cho wibu: `, help_1)
         message.channel.send(embed);
     }
