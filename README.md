@@ -1,11 +1,13 @@
 # Wibu_BOT
 BOT này được mình viết trong lúc mình còn chưa học nodejs nên có gì sai sót mong các bạn bỏ qua.
 
-#Các lệnh chính:
+# Các lệnh chính:
 - ping: kiểm tra dỗ trễ của BOT.
 - uptime: Kiểm tra thời gian BOT đã trực tuyến.
 - help: Để xem tất cả lệnh mà BOT có.
-#Lệnh dành cho anh em wibu chúng ta:
+
+
+# Lệnh dành cho anh em wibu chúng ta:
 - dance: Lấy ảnh gif với nhân vật anime đang nhảy.
 - neko: Lấy ảnh "neko".
 - nekog: Cũng là lấy ảnh "neko" nhưng là gif.
