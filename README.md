@@ -2,7 +2,7 @@
 BOT này được mình viết trong lúc mình còn chưa học nodejs nên có gì sai sót mong các bạn bỏ qua.
 
 # Loại BOT:
-BOT dành cho các server trên nền tảng trò chuyện nổi tiếng ```discord```.
+BOT dành cho các server trên nền tảng trò chuyện nổi tiếng ```Discord```.
 
 # Các lệnh chính:
 - ping: kiểm tra dỗ trễ của BOT.
