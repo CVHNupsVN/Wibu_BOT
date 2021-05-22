@@ -7,6 +7,7 @@ const client = new Client();
 ['command', 'events'].forEach(x => require(`./handlers/${x}`)(client));
 
 constant.DefaultOptions.ws.properties.$browser = `Discord Android` //F$CK IOS
+
 client.on('ready', () => {
 	client.user.setActivity('.help ❤', {
 		type: 'LISTENING',
