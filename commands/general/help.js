@@ -6,21 +6,16 @@ module.exports = {
         aliases: ['commands', `help`, 'list']
     },
     run: async (bot, message, args, Discord, client) => {
-        if(message.author.bot) return message.channel.send("Hmm, Hình như bạn là BOT thì phải.")
-        let info1 = `.yt`
-        let info2 = '.clear'
-        let info3 = '.ping'
-        let info4 = `.info`
-        let info5 = `.uptime`
-
+        let prefix = '.'
+        let info_1 = 'ping'
+        let info_2 = '```dance``` ```foxgirl``` ```neko``` ```nekog``` ```dance``` ```quote``` ```waifu``` ```wink```'
+        
         let embed = new MessageEmbed()
             .setTitle(`Tất cả lệnh của bot:`)
             .setColor(`RANDOM`)
-            .addField(`Xem Youtube cùng nhau:`, info1, true)
-            .addField(`Xóa tin nhắn:`, info2, true)
-            .addField(`Kiểm tra độ trễ của bot:`, info3, true)
-            .addField(`Thời gian trực tuyến:`,info5, true )
-            .addField(`Thông tin về bot:`, info4, true)
+            .addField(`Prefix: `, prefix)
+            .addField(`Kiểm tra độ trễ của bot: `, info_1)
+            .addField(`Dành cho wibu: `, info_2)
         message.channel.send(embed);
     }
 }
