@@ -25,7 +25,7 @@ Bạn có thể chỉnh sửa để làm con bot riêng cho mình hoặc cũng c
 
 Nếu bạn không có kinh phí để thuê máy chủ cho bot thì bạn hãy bấm nút dưới đây đây dể chạy bot trên https//repl.it
 
-Repl link: [![Run on Repl.it](https://repl.it/badge/github/chuhanh-0704/Wibu_BOT)](https://repl.it/github/chuhanh-0704/Wibu_BOT)
+[![Chạy trên https://repl.it](https://repl.it/badge/github/chuhanh-0704/Wibu_BOT)](https://repl.it/github/chuhanh-0704/Wibu_BOT)
 # Dự định:
 - Thêm nhiều lệnh hơn.
 - Hỗ trợ slash cmd để phục vụ tính năng Youtube Together và một vài tính năng khác cảu discord.
