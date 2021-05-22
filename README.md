@@ -27,8 +27,6 @@ BOT dành cho các server trên nền tảng trò chuyện trực tuyến nổi 
 # Preview:
 ![preview](/img/preview.jpg)
 
-P/s: Sai chính tả nhưng mà lười không muốn chụp lại :D
-
 # Sử dụng:
 Bạn có thể chỉnh sửa để làm con bot riêng cho mình hoặc cũng có thể lấy nguyên nó để làm BOT của chính bạn.
 
