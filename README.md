@@ -23,6 +23,10 @@ BOT dành cho các server của nền tảng discord.
 - https://nekos.life
 - https://waifu.pics
 - https://animechan.vercel.app
+
+# Preview:
+![preview](/img/preview.jpg)
+
 # Sử dụng:
 Bạn có thể chỉnh sửa để làm con bot riêng cho mình hoặc cũng có thể lấy nguyên nó để làm BOT của chính bạn.
 
