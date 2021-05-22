@@ -19,7 +19,7 @@ BOT dành cho các server trên nền tảng trò chuyện trực tuyến nổi 
 - wink: Lấy ảnh gif nhân vật anime đang nháy mắt.
 - hentai: Lấy ảnh hentai chứ còn cái gì nữa :D.
 
-# API đã sử dụng:
+# API được sử dụng:
 - https://nekos.life
 - https://waifu.pics
 - https://animechan.vercel.app
