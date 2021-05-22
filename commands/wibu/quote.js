@@ -10,7 +10,7 @@ module.exports = {
        .then(response => response.json())
        .then(quote => {
            let embed = new MessageEmbed()
-           .setAuthor(`Hỗ trợ bởi: animechan.vercel.app`)
+           .setAuthor(`Được hỗ trợ bởi: https://animechan.vercel.app`)
            .setColor('RANDOM')
            .addField('Anime: ', quote.anime)
            .addField('Nhân vật: ', quote.character)
