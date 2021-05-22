@@ -1,6 +1,9 @@
 # Wibu_BOT
 BOT này được mình viết trong lúc mình còn chưa học nodejs nên có gì sai sót mong các bạn bỏ qua.
 
+# Loại BOT:
+BOT dành cho các server của nền tảng discord.
+
 # Các lệnh chính:
 - ping: kiểm tra dỗ trễ của BOT.
 - uptime: Kiểm tra thời gian BOT đã trực tuyến.
