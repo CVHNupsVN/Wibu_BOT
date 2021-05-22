@@ -8,15 +8,15 @@ module.exports = {
     },
     run: async (bot, message, args, Discord, client) => {
         let prefix = config_prefix.prefix
-        let info_1 = 'ping'
-        let info_2 = '```dance``` ```foxgirl``` ```neko``` ```nekog``` ```dance``` ```quote``` ```waifu``` ```wink```'
+        let help_1 = '```dance``` ```foxgirl``` ```neko``` ```nekog``` ```dance``` ```quote``` ```waifu``` ```wink```'
         
         let embed = new MessageEmbed()
             .setTitle(`Tất cả lệnh của bot:`)
             .setColor(`RANDOM`)
             .addField(`Prefix: `, prefix)
-            .addField(`Kiểm tra độ trễ của bot: `, info_1)
-            .addField(`Dành cho wibu: `, info_2)
+            .addField(`Kiểm tra độ trễ của bot: `, `ping`)
+            .addField(`Kiểm tra thời gian trược tuyến: `, `help`)
+            .addField(`Lệnh dành cho wibu: `, help_1)
         message.channel.send(embed);
     }
 }
