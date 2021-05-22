@@ -13,7 +13,7 @@ BOT dành cho các server trên nền tảng trò chuyện trực tuyến nổi 
 - dance: Lấy ảnh gif với nhân vật anime đang nhảy.
 - neko: Lấy ảnh "neko".
 - nekog: Cũng là lấy ảnh "neko" nhưng là ảnh gif.
-- foxgirl: Lấy ảnh "foxgirl"
+- foxgirl: Lấy ảnh "foxgirl".
 - quote: Lấy một câu thoại được trích dẫn trong một bộ phim anime nào đó.
 - waifu: Lấy ảnh "waifu".
 - wink: Lấy ảnh gif nhân vật anime đang nháy mắt.
