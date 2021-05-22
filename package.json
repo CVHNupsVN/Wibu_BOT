@@ -1,7 +1,7 @@
 {
-  "name": "Stupid BOT",
+  "name": "Wibu_BOT",
   "version": "1.0.0",
-  "description": "My BOT>",
+  "description": "Discord_BOT",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
