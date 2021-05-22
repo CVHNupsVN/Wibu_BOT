@@ -5,7 +5,7 @@ BOT này được mình viết trong lúc mình còn chưa học nodejs nên có
 BOT dành cho các server trên nền tảng trò chuyện trực tuyến nổi tiếng ```Discord```.
 
 # Các lệnh chính:
-- ping: kiểm tra dỗ trễ của BOT.
+- ping: kiểm tra độ trễ của BOT.
 - uptime: Kiểm tra thời gian BOT đã trực tuyến.
 - help: Để xem tất cả lệnh mà BOT có.
 
