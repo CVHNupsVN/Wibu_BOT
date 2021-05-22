@@ -6,8 +6,7 @@ const client = new Client();
 [`aliases`, `commands`].forEach(x => (client[x] = new Collection()));
 ['command', 'events'].forEach(x => require(`./handlers/${x}`)(client));
 
-//set bot status:
-constant.DefaultOptions.ws.properties.$browser = `Discord Android`
+constant.DefaultOptions.ws.properties.$browser = `Discord Android` //F$CK IOS
 client.on('ready', () => {
 	client.user.setActivity('.help ❤', {
 		type: 'LISTENING',
