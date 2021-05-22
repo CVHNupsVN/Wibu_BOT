@@ -30,7 +30,7 @@ Nếu bạn không có kinh phí để thuê máy chủ cho bot thì bạn hãy 
 Repl link: [![Run on Repl.it](https://repl.it/badge/github/chuhanh-0704/Wibu_BOT)](https://repl.it/github/chuhanh-0704/Wibu_BOT)
 # Dự định:
 - Thêm nhiều lệnh hơn.
-- Hỗ trợ slash cmd để phục vụ tính năng Youtube Together.
+- Hỗ trợ slash cmd để phục vụ tính năng Youtube Together và một vài tính năng khác cảu discord.
 
 
 # Hỗ trợ + góp ý:
