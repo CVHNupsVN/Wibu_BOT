@@ -31,5 +31,7 @@ Repl link: [![Run on Repl.it](https://repl.it/badge/github/chuhanh-0704/Wibu_BOT
 # Dự định:
 - Thêm nhiều lệnh hơn.
 - Hỗ trợ slash cmd để phục vụ tính năng Youtube Together.
-# Hỗ trợ:
+
+
+# Hỗ trợ + góp ý:
 Nếu có gì cần trợ giúp hoặc đóng góp ý kiến, DM mình qua discord: ```CVHNups#9401```
