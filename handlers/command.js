@@ -7,7 +7,7 @@ module.exports = (bot) => {
             let pull = require(`../commands/${dirs}/${file}`);
             bot.commands.set(pull.config.name, pull);
             if(pull.config.aliases) pull.config.aliases.forEach(a => bot.aliases.set(a, pull.config.name));
-            console.log(`Command | ${pull.config.name} đã tải thành công`)
+            console.log(`Lệnh | ${pull.config.name} đã tải thành công`)
         }
     };
     ["general", "wibu"].forEach(x => load(x));
