@@ -8,7 +8,8 @@ module.exports = {
     },
     run: async (bot, message, args, client, fetch) => {
         var fetch = require("../../node_modules/node-fetch");
-!        if (!message.member.voice.channel.permissionsFor(message.guild.me).has("CREATE_INSTANT_INVITE")) return message.channel.send("Lỗi, mình không có quyền 'Tạo lời mời'.");
+        if (!message.member.voice.channel) return message.reply (`Vui lòng vào VC để sử dụng lệnh này!`)
+        if (!message.member.voice.channel.permissionsFor(message.guild.me).has("CREATE_INSTANT_INVITE")) return message.channel.send("Lỗi, mình không có quyền 'Tạo lời mời'.");
         fetch(`https://discord.com/api/v8/channels/${message.member.voice.channelID}/invites`, {
             method: "POST",
             body: JSON.stringify({
