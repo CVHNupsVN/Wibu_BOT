@@ -11,7 +11,7 @@ BOT dành cho các server trên nền tảng trò chuyện trực tuyến nổi 
 
 # Các hoạt động:
 - youtube: Xem youtube cùng nhau trên ```Discord```.
-- pokernight: Chơi pokernight cùng nhau trên ```Discord```.
+- pokernight: Chơi poker night cùng nhau trên ```Discord```.
 
 # Lệnh dành cho anh em wibu chúng ta:
 - dance: Lấy ảnh gif với nhân vật anime đang nhảy.
