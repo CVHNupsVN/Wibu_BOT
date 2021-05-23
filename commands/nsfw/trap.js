@@ -4,8 +4,8 @@ const neko = new nekoslife();
 
 module.exports = {
 	config: {
-		name: 'hentai',
-		aliases: ['hent']
+		name: 'trap',
+		aliases: ['traps']
 	},
 	run: async (bot, message, args, Discord, client) => {
 		if (message.channel.nsfw === true) {
