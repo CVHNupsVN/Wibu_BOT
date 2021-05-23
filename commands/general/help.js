@@ -8,7 +8,7 @@ module.exports = {
     },
     run: async (bot, message, args, Discord, client) => {
         let prefix = config_prefix.prefix
-        let help_1 = '`dance` `foxgirl` `neko` `nekog` `dance` `quote` `waifu` `wink`'
+        let help_1 = '`foxgirl` `neko` `nekog` `dance` `quote` `waifu` `wink`'
         let activities_1 = '`youtube` `pokernight`'
         
         let embed = new MessageEmbed()
