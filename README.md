@@ -9,7 +9,7 @@ BOT dành cho các server trên nền tảng trò chuyện trực tuyến nổi 
 - uptime: Kiểm tra thời gian BOT đã trực tuyến.
 - help: Để xem tất cả lệnh mà BOT có.
 
-# Các hoạt động
+# Các hoạt động:
 - youtube: Xem youtube cùng nhau trên ```Discord```.
 - pokernight: Chơi pokernight cùng nhau trên ```Discord```.
 
