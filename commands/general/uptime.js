@@ -9,9 +9,8 @@ module.exports = {
     },
     run: async (bot, message, args, client) => {
         let embed = new MessageEmbed()
-            .setTitle(`Thời gian trực tuyến:`)
             .setColor(`RANDOM`)
-            .addField(`Thời gian trực tuyến: ${prettyMilliseconds(bot.uptime)}\nĐộ trễ: ${Math.round(bot.ws.ping)}ms\n`)
+            .addField(`Thời gian trực tuyến:`, `${prettyMilliseconds(bot.uptime)}`)
         message.channel.send(embed);
     }
 }
