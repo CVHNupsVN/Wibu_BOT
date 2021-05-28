@@ -21,6 +21,9 @@ BOT dành cho các server trên nền tảng trò chuyện trực tuyến nổi 
 - quote: Lấy một câu thoại được trích dẫn trong một bộ phim anime nào đó.
 - waifu: Lấy ảnh "waifu".
 - wink: Lấy ảnh gif nhân vật anime đang nháy mắt.
+- ero: Lấy ảnh "ero".
+- boobs: Lấy ảnh "boobs".
+- trap: Lấy ảnh "trap".
 - hentai: Lấy ảnh hentai chứ còn cái gì nữa :D.
 
 # API được sử dụng:
