@@ -9,7 +9,7 @@ module.exports = {
   run: async (bot, message, args, client) => {
     const search = `${args}`;
     if (!search)
-      return message.reply('Bạn quên cho tên tên anime vào à ?');
+      return message.reply('Bạn quên cho tên anime vào à ?');
       
     malScraper.getInfoFromName(search)
       .then((data) => {
