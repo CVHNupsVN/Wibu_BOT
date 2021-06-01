@@ -10,5 +10,5 @@ module.exports = (bot) => {
             console.log(`Lệnh | ${pull.config.name} đã tải thành công`)
         }
     };
-    ["general", "wibu", "activities", "nsfw", "mod"].forEach(x => load(x));
+    ["general", "wibu", "activities", "nsfw", "mod", "fun"].forEach(x => load(x));
 }
