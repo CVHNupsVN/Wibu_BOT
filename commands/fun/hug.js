@@ -12,7 +12,7 @@ module.exports = {
     
     let target = message.mentions.members.first()
 
-    if (!target) return message.reply(`Bạn cần phải chọn người để hôn !`)
+    if (!target) return message.reply(`Bạn cần phải chọn người để ôm !`)
 
     let hug_img = await neko.sfw.hug();
     
