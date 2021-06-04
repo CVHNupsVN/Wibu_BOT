@@ -9,8 +9,8 @@ module.exports = {
     run: async (bot, message, args, Discord, client) => {
         let prefix = config_prefix.prefix
         let help_1 = '`ping` `uptime`'
-        let help_2 = '`dance` `foxgirl` `neko` `quote` `waifu` `wink` `anime`'
-        let help_3 = '`baka` `bite` `bonk` `bully` `handhold` `hug` `jail` `kill` `kiss` `lick` `pat` `rip` `slap` `smile` `smug` `stonks`'
+        let help_2 = ' `anime` `dance` `foxgirl` `neko` `quote` `waifu` `wink`'
+        let help_3 = '`baka` `bite` `bonk` `bully` `handhold` `hug` `jail` `kill` `kiss` `lick` `pat` `paylak` `rip` `slap` `smile` `smug` `stonks`'
         let help_4 = '`boobs` `catgirl` `ero` `feet` `femdom` `hentai` `maid` `nekog` `pantsu` `trap` `yuri`'
         let activities = '`youtube` `pokernight`'
         
