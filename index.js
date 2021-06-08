@@ -6,7 +6,7 @@ const client = new Client();
 [`aliases`, `commands`].forEach(x => (client[x] = new Collection()));
 ['command', 'events'].forEach(x => require(`./handlers/${x}`)(client));
 
-constant.DefaultOptions.ws.properties.$browser = `Discord Android` //F$CK IOS
+constant.DefaultOptions.ws.properties.$browser = `Discord Android`
 
 client.on('ready', () => {
 	client.user.setActivity(config.prefix + 'help ❤', {
