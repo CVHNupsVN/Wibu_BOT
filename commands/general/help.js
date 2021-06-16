@@ -1,5 +1,6 @@
 const { MessageEmbed } = require('discord.js');
 const config_prefix = require ('../../config.js')
+const discordPrefix = require('discord-prefix');
 
 module.exports = {
     config: {
@@ -7,7 +8,8 @@ module.exports = {
         aliases: ['commands', `help`, 'list','trogiup']
     },
     run: async (bot, message, args, Discord, client) => {
-        let prefix = config_prefix.prefix
+        let guildPrefix = discordPrefix.getPrefix(message.guild.id);
+        if (!guildPrefix) guildPrefix = config_prefix.prefix;
         let help_1 = '`ping` `uptime`'
         let help_2 = ' `anime` `dance` `foxgirl` `neko` `quote` `waifu` `wink`'
         let help_3 = '`baka` `bite` `bonk` `bully` `handhold` `hug` `jail` `kill` `kiss` `lick` `pat` `paylak` `rip` `slap` `smile` `smug` `stonks`'
@@ -17,7 +19,7 @@ module.exports = {
         let embed = new MessageEmbed()
             .setTitle(`Tất cả lệnh của bot:`)
             .setColor(`RANDOM`)
-            .addField(`🔧 Prefix: `, prefix)
+            .addField(`🔧 Prefix: `,  guildPrefix)
             .addField(`🔧 Lệnh chính: `, help_1)
             .addField(`🔧 Lệnh dành cho wibu: `, help_2)
             .addField(`😀 Fun:`, help_3)
